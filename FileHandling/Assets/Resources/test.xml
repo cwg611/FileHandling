@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<root xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <username>TestAccount</username>
+  <password>123</password>
+  <Person>
+    <Person name="11111" age="11111" />
+    <Person name="22222" age="22222" />
+    <Person name="33333" age="33333" />
+  </Person>
+</root>
